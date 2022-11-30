@@ -14,6 +14,11 @@ I have inserted the File menu option with New,open,save,save as,exit.then in an 
  [CMake](https://cmake.org/) >= 3.1.0
  - C++ IDE I have used minGW.
 
+# issues and Challenges
+Being new for making QT project is a big Challenge for me at the begining, But Doing this application made me so excited for learning and improving
+
+I have faced the issue not getting the perfect action for a button on a text editors toolBar.
+
 # Why write this text editor?
 
 I recently started getting started with Qt, this is my first Qt project in C++. I hope to develop my skills through this project.
@@ -42,4 +47,6 @@ Execute file TextEditor_QPad.
 # References
 I have used the icons from this website:
 https://forum.qt.io/topic/70233/save-function-in-qt-example
+
+As the assignment has few references of YouYube video and a github link I have made a quick glance on it and build my own application.
 
