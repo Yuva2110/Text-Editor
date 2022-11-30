@@ -10,6 +10,8 @@ This is a Project which is similar to  Notepad .I have build this text editing a
 
 I have inserted the File menu option with New,open,save,save as,exit.then in an  edit menu I have listed the copy ,cut,paste,select all, and few other features
 
+I have also implemented The Fonts,Subscript and superscript Features in this Project
+
 * Required Tools
  [CMake](https://cmake.org/) >= 3.1.0
  - C++ IDE I have used minGW.
